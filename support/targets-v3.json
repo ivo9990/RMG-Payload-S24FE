@@ -5,7 +5,7 @@
       "payloadId": "r12s-S721BXXUEEZIF",
       "displayName": "Galaxy S24 FE | Custom Build",
       "models": ["SM-S721B"],
-      "kernelVersions": ["6.1.162", "6.1.157", "6.1"],
+      "kernelVersions": ["6.1.162"],
       "requiresFreshP0Session": true,
       "exploit": {
         "url": "https://raw.githubusercontent.com/ivo9990/RMG-Payload-S24FE/refs/heads/main/artifacts/r12s-S721BXXUEEZIF/cve-2026-43499-app.release.so",
