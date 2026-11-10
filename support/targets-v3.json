@@ -1,19 +1,18 @@
 {
   "schemaVersion": 3,
-  "payloads": [
+  "targets": [
     {
-      "payloadId": "r12s-S721BXXUEEZIF",
-      "displayName": "Galaxy S24 FE | Kernel 6.1.162",
-      "models": ["SM-S721B"],
-      "kernelVersions": ["6.1.162"],
-      "requiresFreshP0Session": true,
-      "exploit": {
-        "url": "https://raw.githubusercontent.com/your-username/Root-My-Galaxy-Payloads/main/artifacts/r12s-S721BXXUEEZIF/cve-2026-43499-app.so",
-        "size": 104128
-      },
-      "kernelsu": {
-        "url": "https://raw.githubusercontent.com/BuSung-dev/Root-My-Galaxy-Payloads/main/kernelsu/ksud-r12s-S721BXXSCDZF3-kdp",
-        "size": 6419768
+      "id": "r12s-S721BXXUEEZIF",
+      "model": "SM-S721B",
+      "kernelVersion": "6.1.162",
+      "buildId": "S721BXXUEEZIF",
+      "flavor": "kernelsu",
+      "routePolicy": {
+        "slideRoute": "p0",
+        "attempts": 24,
+        "attemptTimeoutSec": 45,
+        "p0AttemptTimeoutSec": 120,
+        "p0OffsetCache": true
       }
     }
   ]
