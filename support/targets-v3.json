@@ -8,11 +8,11 @@
       "kernelVersions": ["6.1.162", "6.1.157", "6.1"],
       "requiresFreshP0Session": true,
       "exploit": {
-        "url": "https://raw.githubusercontent.com/ivo9990/RMG-Payload-S24FE/refs/heads/main/artifacts/r12s-S721BXXUEEZIF/cve-2026-43499-app.so",
+        "url": "https://raw.githubusercontent.com/ivo9990/RMG-Payload-S24FE/refs/heads/main/artifacts/r12s-S721BXXUEEZIF/cve-2026-43499-app.release.so",
         "size": 104128
       },
       "kernelsu": {
-        "url": "https://raw.githubusercontent.com/BuSung-dev/Root-My-Galaxy-Payloads/main/kernelsu/ksud-r12s-S721BXXSCDZF3-kdp",
+        "url": "https://raw.githubusercontent.com/ivo9990/RMG-Payload-S24FE/refs/heads/main/artifacts/r12s-S721BXXUEEZIF/ksud-r12s-S721BXXSCDZF3-kdp",
         "size": 6419768
       }
     }
