@@ -8,11 +8,11 @@
       "kernelVersions": ["6.1.162"],
       "requiresFreshP0Session": true,
       "exploit": {
-        "url": "https://raw.githubusercontent.com/ivo9990/RMG-Payload-S24FE/refs/heads/main/artifacts/r12s-S721BXXUEEZIF/cve-2026-43499-app.release.so",
+        "url": "https://raw.githubusercontent.com/ivo9990/RMG-Payload-S24FE/main/artifacts/r12s-S721BXXUEEZIF/cve-2026-43499-app.release.so",
         "size": 104128
       },
       "kernelsu": {
-        "url": "https://raw.githubusercontent.com/ivo9990/RMG-Payload-S24FE/refs/heads/main/kernelsu/ksud-r12s-S721BXXUEEZIF-kdp",
+        "url": "https://raw.githubusercontent.com/ivo9990/RMG-Payload-S24FE/main/kernelsu/ksud-r12s-S721BXXUEEZIF-kdp",
         "size": 4140968
       }
     }
